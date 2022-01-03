@@ -8,7 +8,7 @@
 🏢 &nbsp;I like to explore new technologies and develop Web and Mobile Applications.\
 🎓 &nbsp;I'm currently doing BS(Computer Science) at the Iqra University, Karachi, Pakistan.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, MERN Stack, and Cloud Computing.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Bike Repair/Manufature as a hobby.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Bike Repair/Manufacture as a hobby.\
 💬 &nbsp;Feel free to reach out to me for Web or Moble App Development, or just for some interesting discussions on space, aliens and celestial bodies.\
 ✉️ &nbsp;You can shoot me an email at hassansaif0ki@gmail.com I'll try to respond as soon as I can.\
 😄 &nbsp;Passionate about accessibility and committed to a web that works for everyone.\
