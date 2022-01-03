@@ -18,7 +18,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<br />
+<br /><br />
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -34,6 +34,7 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)<br /><br />
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 
 <p align="center">
 <a href="https://github.com/mrhassansaif">
