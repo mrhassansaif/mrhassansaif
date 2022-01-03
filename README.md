@@ -3,19 +3,23 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Hassan Saif -->
 
 ### 👨🏻‍💻 &nbsp;About Me
+#### I'm a MERN-Stack Developer based in Karachi, Pakistan.
 
-💡 &nbsp;I like to explore new technologies and develop Web and Mobile Applications.\
+🏢 &nbsp;I like to explore new technologies and develop Web and Mobile Applications.\
 🎓 &nbsp;I'm currently doing BS(Computer Science) at the Iqra University, Karachi, Pakistan.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, MERN Stack, and Cloud Computing.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Bike Repair/Manufature as a hobby.\
-💬 &nbsp;Feel free to reach out to me for Web or Moble App Development, or just for some interesting discussion on space, aliens and celestial bodies.\
+💬 &nbsp;Feel free to reach out to me for Web or Moble App Development, or just for some interesting discussions on space, aliens and celestial bodies.\
 ✉️ &nbsp;You can shoot me an email at hassansaif0ki@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](bit.ly/hassanportfolio) for more details about me. I'm open to feedback and suggestions!
+😄 &nbsp;Passionate about accessibility and committed to a web that works for everyone.\
+💜 &nbsp;Interests: huge astronomy enthusiast, cryptocurrency airdrop hunter, foodie, Anime and MMO-RPG Games.\
+📫 &nbsp;Please have a look at my [Portfolio](bit.ly/hassanportfolio) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
+<br /><br /><br />
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -28,7 +32,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)<br /><br /><br /><br /><br /><br /><br /><br /><br />
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)<br /><br /><br />
 
 ### ⚙️ &nbsp;GitHub Analytics
 
