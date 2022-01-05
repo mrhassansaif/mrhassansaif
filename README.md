@@ -12,7 +12,7 @@
 💬 &nbsp;Feel free to reach out to me for Web or Moble App Development, or just for some interesting discussions on space, aliens and celestial bodies.\
 ✉️ &nbsp;You can shoot me an email at hassansaif0ki@gmail.com I'll try to respond as soon as I can.\
 😄 &nbsp;Passionate about accessibility and committed to a web that works for everyone.\
-💜 &nbsp;Interests: huge astronomy enthusiast, cryptocurrency airdrop hunter, foodie, Anime and MMO-RPG Games.\
+💜 &nbsp;Interests: huge astronomy enthusiast, cryptocurrency airdrop hunter, foodie, Anime and MMO-RPG Games.
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
