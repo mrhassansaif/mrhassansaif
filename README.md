@@ -14,7 +14,7 @@
 😄 &nbsp;Passionate about accessibility and committed to a web that works for everyone.\
 💜 &nbsp;Interests: huge astronomy enthusiast, cryptocurrency airdrop hunter, foodie, Anime and MMO-RPG Games.
 
-<img alt="Man Coding" src="./assets/animated-man-computer-coding-nae6mec378lsg1i3.gif" align="right" height="350" width="200"/>
+<img alt="Man Coding" src="./assets/animated-man-computer-coding-nae6mec378lsg1i3.gif" align="right" height="200" width="350"/>
 
 ### 🛠 &nbsp;Tech Stack
 
