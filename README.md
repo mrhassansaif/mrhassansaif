@@ -15,7 +15,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/mrhassan_saif/"><img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mr-hassansaif/"><img src="https://cdn.simpleicons.org/facebook/0866FF" height="45" alt="Facebook" align="absmiddle"></a>
+  <a href="https://www.facebook.com/mr.hassansaif/"><img src="https://cdn.simpleicons.org/facebook/0866FF" height="45" alt="Facebook" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Mr_Hassan_Saif"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="43" alt="Twitter" align="absmiddle"></a>
 </p>
@@ -36,19 +36,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack JavaScript Developer who enjoys building web applications that are **clean, responsive, fast, and genuinely useful**.
+I'm a **Full Stack JavaScript Developer from Karachi** who got into programming through gaming and never really left.
 
-My journey started with a simple question:
+My journey started with simple curiousity
 
-> **"How does this thing actually work?"**
+> **"How do they worked, how things could be changed, and what was happening behind the scenes."**
 
-That curiosity took me from HTML and CSS into JavaScript, React, Node.js, Next.js, databases, APIs, cloud services, and full-stack application development.
+What started as messing around with games eventually turned into a genuine interest in programming and one very big rabbit hole. That rabbit hole took me from HTML and CSS into **JavaScript, React, Node.js, Next.js, databases, APIs, cloud services, and full-stack application development**.
 
-I enjoy working where **logic meets creativity**. I like solving the technical problem, but I also care about the interface, the details, and how the final product feels to the person using it.
+These days, I split my time between **client work, personal projects, and finishing my Computer Science degree online**. I've worked on production websites, business applications, dashboards, integrations, and custom web experiences using technologies ranging from **React and Next.js to WordPress, Wix, and Shopify**.
 
-I've worked on production websites, business applications, dashboards, integrations, and custom web experiences using technologies ranging from React and Next.js to WordPress, Wix, and Shopify.
+I enjoy working where **logic meets creativity**. I like solving the technical problem, but I also care about the interface, the details, and how the final product actually feels to the person using it. At the end of the day, I like building things that **actually work in the real world**, not just things that look good in a repository.
 
-Outside of code, I'm usually somewhere between **space, sci-fi, design, photography, games, and random technical rabbit holes**.
+Outside of code, I'm usually somewhere between **gaming, space, sci-fi, design, photography, and random technical rabbit holes**.
 
 ---
 
@@ -268,7 +268,7 @@ Whether you want to collaborate on a project, discuss technology, geek out about
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/mrhassan_saif/"><img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mr-hassansaif/"><img src="https://cdn.simpleicons.org/facebook/0866FF" height="45" alt="Facebook" align="absmiddle"></a>
+  <a href="https://www.facebook.com/mr.hassansaif/"><img src="https://cdn.simpleicons.org/facebook/0866FF" height="45" alt="Facebook" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Mr_Hassan_Saif"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="43" alt="Twitter" align="absmiddle"></a>
 </p>
