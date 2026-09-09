@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/Github-Banner.png"
+    src="./assets/Github-Banner.webp"
     alt="Hassan Saif - Full Stack JavaScript Developer"
     width="100%"
   />
