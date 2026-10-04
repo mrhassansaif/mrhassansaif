@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mrhassansaif.github.io/my-portfolio2.0/"><img src="https://skillicons.dev/icons?i=htmx" height="45" alt="Portfolio" align="absmiddle"></a>
+  <a href="https://hassansaif.vercel.app/"><img src="https://skillicons.dev/icons?i=htmx" height="45" alt="Portfolio" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mr-hassansaif/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,9 +15,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/mrhassan_saif/"><img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/mr.hassansaif/"><img src="https://cdn.simpleicons.org/facebook/0866FF" height="45" alt="Facebook" align="absmiddle"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Mr_Hassan_Saif"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="43" alt="Twitter" align="absmiddle"></a>
 </p>
 
 ---
@@ -260,7 +257,7 @@ I like learning by **building, breaking, fixing, and rebuilding**.
 Whether you want to collaborate on a project, discuss technology, geek out about astronomy, or just say hello, my inbox is always open.
 
 <p align="center">
-  <a href="https://mrhassansaif.github.io/my-portfolio2.0/"><img src="https://skillicons.dev/icons?i=htmx" height="45" alt="Portfolio" align="absmiddle"></a>
+  <a href="https://hassansaif.vercel.app/"><img src="https://skillicons.dev/icons?i=htmx" height="45" alt="Portfolio" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mr-hassansaif/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -268,9 +265,6 @@ Whether you want to collaborate on a project, discuss technology, geek out about
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/mrhassan_saif/"><img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/mr.hassansaif/"><img src="https://cdn.simpleicons.org/facebook/0866FF" height="45" alt="Facebook" align="absmiddle"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Mr_Hassan_Saif"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="43" alt="Twitter" align="absmiddle"></a>
 </p>
 
 <p align="center">
