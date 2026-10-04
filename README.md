@@ -11,7 +11,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mr-hassansaif/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hassansaif0ki@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" align="absmiddle"></a>
+  <a href="mailto:hassansaif.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/mrhassan_saif/"><img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -261,7 +261,7 @@ Whether you want to collaborate on a project, discuss technology, geek out about
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mr-hassansaif/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hassansaif0ki@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" align="absmiddle"></a>
+  <a href="mailto:hassansaif.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/mrhassan_saif/"><img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" align="absmiddle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
