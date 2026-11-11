@@ -143,66 +143,40 @@ Learning more about **AI, cloud technologies, automation, system design, and mod
 
 ---
 
-# 🌌 Beyond Code
+## 🌌 Beyond Code
 
-A little more <b>Hassan</b> and a little less résumé.
+A developer by profession, curious about pretty much everything else.
 
 <table>
   <tr>
-    <td style="white-space: nowrap;"><strong>🌌 Astronomy</strong></td>
-    <td>Space has always fascinated me. Stars, planets, galaxies, black holes, the possibility of extraterrestrial life... I can disappear into a space rabbit hole for hours.</td>
+    <td style="white-space: nowrap;"><strong>🚀 Space & Sci-Fi</strong></td>
+    <td>Astronomy, black holes, futuristic worlds and cyberpunk aesthetics. Basically, anything from another galaxy or 2077.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><strong>🤖 AI & Tech</strong></td>
-    <td>Genuinely curious about where AI is taking software development. I love experimenting with AI tools, new workflows, and finding smarter ways to build things.</td>
+    <td style="white-space: nowrap;"><strong>🎌 Anime & Entertainment</strong></td>
+    <td>Anime, Marvel, DC, sci-fi movies, thrillers and stories with ridiculously good lore.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><strong>🛰️ Sci-Fi & Cyberpunk</strong></td>
-    <td>Cyberpunk cities, futuristic interfaces, neon lights, dystopian worlds, spaceships and anything that looks like it came from 2077. You can probably tell from my UI preferences. XD</td>
+    <td style="white-space: nowrap;"><strong>🎮 Gaming</strong></td>
+    <td>Story-driven games over competitive grind. Known as <strong>DemonWolf</strong> in the gaming world.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><strong>🎌 Anime</strong></td>
-    <td>Huge anime nerd. I love good world-building, character development, insane fights, psychological stories and anything that makes me say "one more episode" at 3 AM.</td>
+    <td style="white-space: nowrap;"><strong>🎨 Design & Creativity</strong></td>
+    <td>UI/UX, graphic design and photography. Things should work beautifully and look the part too.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><strong>🎬 Movies & TV</strong></td>
-    <td>Superhero movies, sci-fi, thrillers, fantasy and anything with a good story. I'm especially into universes where you can spend hours going down lore rabbit holes.</td>
+    <td style="white-space: nowrap;"><strong>🤖 Tech & Curiosity</strong></td>
+    <td>AI, new technologies, random deep dives and probably 17 open research tabs at any given time.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><strong>🦸 Marvel & DC</strong></td>
-    <td>Marvel and DC have been part of my entertainment diet for years. Heroes, villains, alternate universes, timelines and ridiculous amounts of lore? Yeah, I'm in.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><strong>🎮 Games</strong></td>
-    <td>Story-driven games &gt; competitive games. Give me a strong world, atmosphere, characters and soundtrack and I'm probably disappearing for the next few hours. I go by <strong>DemonWolf</strong>.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><strong>🎨 Design</strong></td>
-    <td>Graphic design is one of the reasons I care so much about UI. I don't just want something to work, I want it to actually look and feel good too.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><strong>📷 Photography</strong></td>
-    <td>I enjoy photography and playing around with composition, lighting and perspective. Sometimes you just need to step away from the code and look at things differently.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><strong>🏍️ Mechanical Stuff</strong></td>
-    <td>Not everything needs a keyboard and a debugger. I like tinkering with bikes, electrical work, wiring and figuring out how mechanical things work.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><strong>☕ UI Overthinking</strong></td>
-    <td>I can spend three hours fixing a 4px alignment issue that absolutely nobody else noticed. And yes, I will do it again.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><strong>🧠 Curiosity</strong></td>
-    <td>I have a habit of going way too deep into random topics. If something catches my interest, suddenly I'm 17 tabs deep researching how it works.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><strong>🌐 Web & Building</strong></td>
-    <td>I genuinely enjoy taking an idea and turning it into an actual website or product. That's probably why I've ended up working across frontend, full-stack, WordPress, Wix and a bunch of other things.</td>
+    <td style="white-space: nowrap;"><strong>🔧 Hands-on Stuff</strong></td>
+    <td>Bikes, electrical work, wiring and figuring out how things work beyond a screen.</td>
   </tr>
 </table>
 
+**Fun fact:** I might spend hours fixing a tiny UI detail that nobody will notice. I call it attention to detail. XD
 ---
+
 
 # 🧪 Current Side Quests
 
@@ -245,10 +219,11 @@ I like learning by **building, breaking, fixing, and rebuilding**.
 
 ---
 
-# 📚 Favorite Quote
+## 📚 Current Favorite Quote
 
-> **"Any sufficiently advanced technology is indistinguishable from magic."**
-> **"~ Arthur C. Clarke"**
+|  |  |
+|:---|:---:|
+| <h3>"The power of code compels you!"</h3><strong>Ultron</strong><br><sub>VisionQuest (2026)</sub> | <img src="./assets/The-Power-of-Code-Ulton.png" width="350" alt="The Power of Code Compels You" /> |
 
 ---
 
